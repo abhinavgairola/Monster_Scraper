@@ -24,11 +24,11 @@ class plotter:
         size=18,
         color="black"))
         #fig_1.update_layout( xaxis={'categoryorder':'category descending'})
-        fig_1.write_image('bar'+file_.split('.')[0]+'.png',scale=2)
+        fig_1.write_image('bar'+file_.split('.')[0]+'.svg',scale=2)
         fig_1.write_html('bar'+file_.split('.')[0]+'.html') 
         fig_1.show()
         fig_2 = px.pie(values=y, names=x, title='What skills are needed in data science'+'  '+'jobs:'+ '  ' +(''.join(file_.split('keywordJobs')[1])).split('.')[0],color_discrete_sequence=px.colors.cyclical.IceFire,hole=0.6)
-        fig_2.write_image('pie'+file_.split('.')[0]+'.png',scale=2)
+        fig_2.write_image('pie'+file_.split('.')[0]+'.svg',scale=2)
         fig_2.write_html('pie'+file_.split('.')[0]+'.html') 
         fig_2.update_layout(font=dict(family="Times New Roman",
         size=18,
