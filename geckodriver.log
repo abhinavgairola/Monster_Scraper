@@ -1,0 +1,13 @@
+1616986709060	geckodriver	INFO	Listening on 127.0.0.1:62357
+1616986710067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileHCkamn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616986713498	Marionette	INFO	Listening on port 62367
+1616986713598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.3ca3e385.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.3ca3e385.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
