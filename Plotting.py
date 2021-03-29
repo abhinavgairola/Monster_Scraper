@@ -24,10 +24,10 @@ class plotter:
         size=18,
         color="black"))
         #fig_1.update_layout( xaxis={'categoryorder':'category descending'})
-        #fig_1.write_image('bar'+file_.split('.')[0]+'.png',scale=2)
+        fig_1.write_image('bar'+file_.split('.')[0]+'.png',scale=2)
         fig_1.show()
-        fig_2 = px.pie(values=y, names=x, title='What skills are needed in data science'+'  '+file_.split('.')[0],color_discrete_sequence=px.colors.cyclical.IceFire)
-        #fig_2.write_image('pie'+file_.split('.')[0]+'.png',scale=2)
+        fig_2 = px.pie(values=y, names=x, title='What skills are needed in data science'+'  '+file_.split('.')[0],color_discrete_sequence=px.colors.cyclical.IceFire,hole=0.6)
+        fig_2.write_image('pie'+file_.split('.')[0]+'.png',scale=2)
         fig_2.update_layout(font=dict(family="Times New Roman",
         size=18,
         color="black"))
