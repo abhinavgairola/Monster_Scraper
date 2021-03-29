@@ -4,6 +4,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 import re
+import glob
 
 class linkParsing:
 
@@ -16,7 +17,7 @@ class linkParsing:
         filecontent = csv.reader(f)
         headers = next(filecontent)
 
-        pattern = re.compile(r'(python|pandas|matplotlib|plotly|matlab|jupyter|aws|sql|spark|pyspark|quantitative|engineering)')
+        pattern = re.compile(r'(python|pandas|matplotlib|plotly|matlab|jupyter|aws|sql|spark|pyspark|quantitative|engineering|scikit-learn|numpy)')
         #pattern = re.compile(r'(fedramp|nist|aws|cissp|security clearance)')
         
         corpus = {}
@@ -45,8 +46,11 @@ class linkParsing:
 
 if __name__ == '__main__':
     obj = linkParsing()
-    data,data_2 = obj.link_picker('Jobs.csv')
-    f = open('keyword_cyber.json','w')
-    data.update(data_2)
-    print(data)
-    json.dump(data,f)
+    file_list = glob.glob('*.csv')
+    for file_ in file_list:
+        print(file_)
+        data,data_2 = obj.link_picker(file_)
+        f = open('keyword'+file_.split('.')[0]+'.json','w')
+        data.update(data_2)
+        print(data)
+        json.dump(data,f)
