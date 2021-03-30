@@ -1,4 +1,4 @@
-# Monster_Scraper <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
  <body style="background-color: #3c3d41;">
  <h1>A toolkit to extract jobs from <a href="https://www.monster.com/"> Monster.com </a></h1>
