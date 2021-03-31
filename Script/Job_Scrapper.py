@@ -40,10 +40,10 @@ if __name__ =='__main__':
     Links = {}
     ## Supply the number of pages to be scraped ##TODO can be improved later on
     strt = 1
-    end = 70
+    end = 100
     Jobtitle = 'Data Science'
     Location = 'California'
-    Location_Lists = ['New York','Washington DC','California','Maryland','Virginia']
+    Location_Lists = ['New York','Washington DC','California','Texas','Kansas','Illinois']
     for lok in Location_Lists:
         for i in range(strt,end,11):
             titles, links = obj.Monster(Jobtitle,lok,str(i),str(i+10))

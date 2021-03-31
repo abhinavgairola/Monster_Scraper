@@ -124,3 +124,103 @@ JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.3ca3e385.chu
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1617120299575	geckodriver	INFO	Listening on 127.0.0.1:57390
+1617120300587	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilexb1Wmn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617120303959	Marionette	INFO	Listening on port 57397
+1617120304035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.7329d15d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.7329d15d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617120493383	geckodriver	INFO	Listening on 127.0.0.1:57606
+1617120494398	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilepitGJW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617120496936	Marionette	INFO	Listening on port 57613
+1617120497008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.7329d15d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.7329d15d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617122103248	geckodriver	INFO	Listening on 127.0.0.1:61136
+1617122104265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilev4GFG8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617122107905	Marionette	INFO	Listening on port 61149
+1617122107935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.7329d15d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.7329d15d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
