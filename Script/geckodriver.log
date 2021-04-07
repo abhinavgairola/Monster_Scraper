@@ -224,3 +224,475 @@ JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1
 JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
 JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
 JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617729621711	geckodriver	INFO	Listening on 127.0.0.1:58812
+1617729622717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofiletww5Vy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617729625621	Marionette	INFO	Listening on port 58823
+1617729625666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617735720427	geckodriver	INFO	Listening on 127.0.0.1:62623
+1617735721444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilebhFQN2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617735724671	Marionette	INFO	Listening on port 62634
+1617735724782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617735957065	geckodriver	INFO	Listening on 127.0.0.1:62830
+1617735958078	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofile90fjqK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617735960383	Marionette	INFO	Listening on port 62841
+1617735960492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617735969678	geckodriver	INFO	Listening on 127.0.0.1:62937
+1617735970699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofile7Ackbb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617735972972	Marionette	INFO	Listening on port 62948
+1617735973009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617736071682	geckodriver	INFO	Listening on 127.0.0.1:63115
+1617736072692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofile2QNgow"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617736075166	Marionette	INFO	Listening on port 63126
+1617736075195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617736278095	geckodriver	INFO	Listening on 127.0.0.1:63299
+1617736279102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilemGovSR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617736281427	Marionette	INFO	Listening on port 63310
+1617736281489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617736476933	geckodriver	INFO	Listening on 127.0.0.1:63465
+1617736477944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileASqcue"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617736480508	Marionette	INFO	Listening on port 63476
+1617736480551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617736740419	geckodriver	INFO	Listening on 127.0.0.1:63656
+1617736741425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilezcXIus"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617736743839	Marionette	INFO	Listening on port 63667
+1617736743927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617736902277	geckodriver	INFO	Listening on 127.0.0.1:63834
+1617736903284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileQiDGI9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617736905833	Marionette	INFO	Listening on port 63845
+1617736905886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617737040038	geckodriver	INFO	Listening on 127.0.0.1:64007
+1617737041055	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileFLrEMJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617737043611	Marionette	INFO	Listening on port 64019
+1617737043659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617737114738	geckodriver	INFO	Listening on 127.0.0.1:64154
+1617737114748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilewNywKy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617737117221	Marionette	INFO	Listening on port 64163
+1617737117252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617737199166	geckodriver	INFO	Listening on 127.0.0.1:64311
+1617737200178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileOqB5fH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617737202747	Marionette	INFO	Listening on port 64322
+1617737202782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617737272028	geckodriver	INFO	Listening on 127.0.0.1:64461
+1617737273063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileHJEF5k"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617737275618	Marionette	INFO	Listening on port 64472
+1617737275670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617737446018	geckodriver	INFO	Listening on 127.0.0.1:64655
+1617737447065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofile3vD6D5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617737449752	Marionette	INFO	Listening on port 64666
+1617737449867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617737584068	geckodriver	INFO	Listening on 127.0.0.1:64846
+1617737585075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofile7elrzL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617737587941	Marionette	INFO	Listening on port 64857
+1617737588014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617737849369	geckodriver	INFO	Listening on 127.0.0.1:65164
+1617737849378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilesu5xh4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617737852133	Marionette	INFO	Listening on port 65173
+1617737852187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617739239375	geckodriver	INFO	Listening on 127.0.0.1:65452
+1617739240378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileTbJHXi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739244971	Marionette	INFO	Listening on port 65465
+1617739245062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617739296013	geckodriver	INFO	Listening on 127.0.0.1:49227
+1617739297015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilevqpdni"
+*** You are running in headless mode.
+1617739304161	geckodriver	INFO	Listening on 127.0.0.1:49255
+1617739305166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileOfPZ7I"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739307795	Marionette	INFO	Listening on port 49266
+1617739307866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617739539720	geckodriver	INFO	Listening on 127.0.0.1:49467
+1617739540720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilem8XmTL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739543655	Marionette	INFO	Listening on port 49478
+1617739543739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617739889483	geckodriver	INFO	Listening on 127.0.0.1:49774
+1617739890491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileCyrEiQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739893798	Marionette	INFO	Listening on port 49787
+1617739893815	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617739908041	geckodriver	INFO	Listening on 127.0.0.1:49852
+1617739909072	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilevZMxDc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739911814	Marionette	INFO	Listening on port 49865
+1617739911870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617740348087	geckodriver	INFO	Listening on 127.0.0.1:50111
+1617740349100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilebzzu9s"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740352058	Marionette	INFO	Listening on port 50123
+1617740352115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617740593341	geckodriver	INFO	Listening on 127.0.0.1:50295
+1617740594341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileBDrakM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740597490	Marionette	INFO	Listening on port 50306
+1617740597570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617740652359	geckodriver	INFO	Listening on 127.0.0.1:50435
+1617740653249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilefYJ0nI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740658430	Marionette	INFO	Listening on port 50447
+1617740658482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617740690829	geckodriver	INFO	Listening on 127.0.0.1:50588
+1617740691825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilexl4N0E"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740694767	Marionette	INFO	Listening on port 50599
+1617740694849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617740799855	geckodriver	INFO	Listening on 127.0.0.1:50779
+1617740800913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofile1gbubN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740803934	Marionette	INFO	Listening on port 50790
+1617740804031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617740839750	geckodriver	INFO	Listening on 127.0.0.1:50920
+1617740840751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileTeWIkC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740843731	Marionette	INFO	Listening on port 50931
+1617740843770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.1552ace9.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617806425600	geckodriver	INFO	Listening on 127.0.0.1:55345
+1617806426614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileHP2nkG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617806432687	Marionette	INFO	Listening on port 55356
+1617806432803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617806676859	geckodriver	INFO	Listening on 127.0.0.1:55662
+1617806677875	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileZTCQpM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617806680160	Marionette	INFO	Listening on port 55673
+1617806680175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.27dd5a3d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.27dd5a3d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617806816499	geckodriver	INFO	Listening on 127.0.0.1:55849
+1617806817514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofileRtryKA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617806820056	Marionette	INFO	Listening on port 55860
+1617806820136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.27dd5a3d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.27dd5a3d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617812964067	geckodriver	INFO	Listening on 127.0.0.1:57653
+1617812965066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/sp/md_f_4_n2x5dynv8ffbzb5240000gn/T/rust_mozprofilevpiZ4n"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617812968069	Marionette	INFO	Listening on port 57664
+1617812968087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.27dd5a3d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.monster.com/assets/jobs/static/js/0.27dd5a3d.chunk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

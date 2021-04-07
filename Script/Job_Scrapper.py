@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
+import os
 import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
@@ -14,6 +15,12 @@ class googlesearch:
         self.driver = webdriver.Firefox(options=Options)
         self.driver.implicitly_wait(20)
         return None 
+
+    def create_folder(self,title):
+        folder_name = '_'.join(title.split(' '))
+        if os.path.exists(folder_name)==False:
+            os.mkdir(folder_name)
+        return folder_name
 
 
     def Monster(self, jobtitle,location, start, end):
@@ -40,8 +47,9 @@ if __name__ =='__main__':
     Links = {}
     ## Supply the number of pages to be scraped ##TODO can be improved later on
     strt = 1
-    end = 100
-    Jobtitle = 'Data Science'
+    end = 10
+    Jobtitle = 'Data Analyst'
+    foldername = obj.create_folder(Jobtitle)
     Location = 'California'
     Location_Lists = ['New York','Washington DC','California','Texas','Kansas','Illinois']
     for lok in Location_Lists:
@@ -53,5 +61,6 @@ if __name__ =='__main__':
         df=pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in Companies.items() ]))
         df_2=pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in Links.items() ]))
         df =pd.concat([df.stack(),df_2.stack()],axis=1,ignore_index=True)
-        df.dropna().rename(columns={0:'Companies',1:'Links'}).to_csv('Jobs'+lok+'.csv',index=False)
+        df.dropna().rename(columns={0:'Companies',1:'Links'}).to_csv(foldername+'/'+'Jobs'+lok+'.csv',index=False)
+        print("This is data",df)
 

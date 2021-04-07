@@ -2,6 +2,7 @@ import pandas as pd
 import csv
 import requests
 import json
+import os
 from bs4 import BeautifulSoup
 import re
 import glob
@@ -10,6 +11,13 @@ class linkParsing:
 
     def __init__(self):
         return None
+    
+    def folders(self):
+        list_ = [name for name in os.listdir() if os.path.isdir(name) ]
+        print("This is the list_",list_)
+        list_.remove('.ipynb_checkpoints')
+        #print("This is the list",list_)
+        return list_
 
     def link_picker(self, csvfile):
 
@@ -35,7 +43,7 @@ class linkParsing:
             text_list =(soup.text.lower())
 
             temp = (re.findall(pattern,text_list))
-            if len(temp)/len(matches)>=0.5:
+            if len(temp)/len(matches)>=0.2:
                 unique_list = []
                 for t in temp:
                     if t not in unique_list:
@@ -49,11 +57,15 @@ class linkParsing:
 
 if __name__ == '__main__':
     obj = linkParsing()
-    file_list = glob.glob('*.csv')
-    for file_ in file_list:
-        print(file_)
-        data,data_2 = obj.link_picker(file_)
-        f = open('keyword'+file_.split('.')[0]+'.json','w')
-        data.update(data_2)
-        print(data)
-        json.dump(data,f)
+    folders = obj.folders()
+    for fol in folders:
+        file_list = glob.glob(fol+'/'+'*.csv')
+        print("This is the file_list",file_list)
+        for file_ in file_list:
+            file__  = file_.split('/')[1]
+            print("This is the next",file__)
+            data,data_2 = obj.link_picker(file_)
+            f = open(fol+'/'+'keyword'+file__.split('.')[0]+'.json','w')
+            data.update(data_2)
+            print(data)
+            json.dump(data,f)
