@@ -17,8 +17,11 @@ class linkParsing:
         filecontent = csv.reader(f)
         headers = next(filecontent)
 
-        pattern = re.compile(r'(python|pandas|matplotlib|plotly|matlab|jupyter|aws|sql|spark|pyspark|quantitative|engineering|scikit-learn|numpy)')
+        matches = ['python','pandas','matplotlib','plotly','matlab','jupyter','aws','sql','spark','pyspark','quantitative','engineering','scikit-learn','numpy','associate']
+
+        pattern = re.compile('|'.join(matches))
         #pattern = re.compile(r'(fedramp|nist|aws|cissp|security clearance)')
+        print("This is the pattern", pattern)
         
         corpus = {}
         links = {}
@@ -32,7 +35,7 @@ class linkParsing:
             text_list =(soup.text.lower())
 
             temp = (re.findall(pattern,text_list))
-            if temp:
+            if len(temp)/len(matches)>=0.5:
                 unique_list = []
                 for t in temp:
                     if t not in unique_list:
