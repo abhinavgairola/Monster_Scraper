@@ -8,6 +8,7 @@
    <!--<p align="center">
  <h2> Word cloud image of lending club loan descriptors</h2><br>
  </p>-->
+ The idea here is to automatically extract the job links from monster using selenium webdriver. The scripts later look for the given keywords in the job description and only keeps those links which has a 50% of the supplied keywords.
  </p>
 
 
