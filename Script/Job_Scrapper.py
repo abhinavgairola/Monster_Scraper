@@ -47,11 +47,11 @@ if __name__ =='__main__':
     Links = {}
     ## Supply the number of pages to be scraped ##TODO can be improved later on
     strt = 1
-    end = 10
-    Jobtitle = 'Data Analyst'
+    end = 50
+    Jobtitle = 'Data Science'
     foldername = obj.create_folder(Jobtitle)
     Location = 'California'
-    Location_Lists = ['New York','Washington DC','California','Texas','Kansas','Illinois']
+    Location_Lists = ['North Carolina']#['New York','Washington DC','California','Texas','Kansas','Illinois']
     for lok in Location_Lists:
         for i in range(strt,end,11):
             titles, links = obj.Monster(Jobtitle,lok,str(i),str(i+10))
@@ -62,5 +62,5 @@ if __name__ =='__main__':
         df_2=pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in Links.items() ]))
         df =pd.concat([df.stack(),df_2.stack()],axis=1,ignore_index=True)
         df.dropna().rename(columns={0:'Companies',1:'Links'}).to_csv(foldername+'/'+'Jobs'+lok+'.csv',index=False)
-        print("This is data",df)
+        #print("This is data",df)
 
